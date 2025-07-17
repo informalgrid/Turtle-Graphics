@@ -1,5 +1,6 @@
 # Turtle-Graphics
-This repository contains 2 project based on Turtle graphics
+This repository contains project based on Turtle graphics
 <br>
 Turtle Race <br>
-Road Crossing
+Road Crossing <br>
+Pong Game
